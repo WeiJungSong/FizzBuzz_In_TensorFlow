@@ -7,6 +7,8 @@ One day, I found a video on Youtube: https://www.youtube.com/watch?v=F1vek6ULo9w
 and reference to the article: http://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/
 
 A crazy guy used neural network to handle FizzBuzz problem!  (???)
+The GitHub of the author: https://github.com/joelgrus/fizz-buzz-tensorflow
+
 As a freshmen in machine learning, I should follow the master, practice it on my laptop!
 
 In this project, there are 2 major files: training_data_generator.py and FizzBuzz_in_NN.py
@@ -21,4 +23,4 @@ In this project, there are 2 major files: training_data_generator.py and FizzBuz
 - FizzBuzz_in_NN.py
 	A simple neural network built via Keras for training
 
-
+The accuracy in this project is roughly at 98%
