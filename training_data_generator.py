@@ -104,7 +104,7 @@ def main():
     number_list = []
     label_list = []
     RANGE_BEGIN = 1000
-    RANGE_END = 100000
+    RANGE_END = 200000
 
     # prepare for fill the leading zero in binary digital
     total_digital = len(dec_to_bin(RANGE_END))
